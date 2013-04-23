@@ -1,4 +1,4 @@
 radiant-groupdocs-comparison
 ============================
 
-GroupDocs Comparison plugin for Radiant CMS
+GroupDocs Comparison plugin for Radiant CMS (Package Repository)
